@@ -66,30 +66,35 @@ python train_model.py
 ```
 This will:
 
-Train a new sentiment analysis model
+📥 Load the dataset from dataset.csv
 
-Save the model as sentiment_model.pkl
+🧠 Train a machine learning model for sentiment classification
 
-Store evaluation metrics in metrics.json
+💾 Save the trained model to sentiment_model.pkl
 
-📈 Example
+📊 Evaluate the model on a test split
+
+📁 Store evaluation metrics (e.g., accuracy, precision, recall) in metrics.json
+
+---
+## 📈 Example
 Input:
 
-cpp
-Copy
-Edit
+```
 I love using this product!
+```
 Output:
-
-makefile
-Copy
-Edit
+```
 Sentiment: Positive
-📄 License
+```
+---
+## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-🙌 Acknowledgements
+---
+## 🙌 Acknowledgements
 Developed with Flask and scikit-learn
 
 Inspired by real-world Natural Language Processing applications
+
 
