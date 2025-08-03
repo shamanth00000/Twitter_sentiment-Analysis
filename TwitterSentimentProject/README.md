@@ -37,3 +37,14 @@ twitter-sentiment-analysis/
 
 
 
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/shamanth00000/twitter-sentiment-analysis.git
+cd twitter-sentiment-analysis
+```
+
