@@ -47,4 +47,49 @@ twitter-sentiment-analysis/
 git clone https://github.com/shamanth00000/twitter-sentiment-analysis.git
 cd twitter-sentiment-analysis
 ```
+---
+## 🚀 Running the Web App
+Start the Flask app using:
+
+```bash
+python app.py
+Then open your browser and visit:
+```
+
+#### http://127.0.0.1:5000
+---
+## 🧠 Retrain the Model
+If you want to retrain the sentiment model using dataset.csv, run:
+
+```
+python train_model.py
+```
+This will:
+
+Train a new sentiment analysis model
+
+Save the model as sentiment_model.pkl
+
+Store evaluation metrics in metrics.json
+
+📈 Example
+Input:
+
+cpp
+Copy
+Edit
+I love using this product!
+Output:
+
+makefile
+Copy
+Edit
+Sentiment: Positive
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+🙌 Acknowledgements
+Developed with Flask and scikit-learn
+
+Inspired by real-world Natural Language Processing applications
 
