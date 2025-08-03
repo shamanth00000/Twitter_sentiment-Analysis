@@ -95,6 +95,12 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## 🙌 Acknowledgements
 Developed with Flask and scikit-learn
 
+---
+## 👤 Author
+Shamanth
+* GitHub: @shamanth00000
+
 Inspired by real-world Natural Language Processing applications
+
 
 
