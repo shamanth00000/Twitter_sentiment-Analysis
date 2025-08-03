@@ -53,8 +53,8 @@ Start the Flask app using:
 
 ```bash
 python app.py
-Then open your browser and visit:
 ```
+Then open your browser and visit:
 
 #### http://127.0.0.1:5000
 ---
@@ -101,6 +101,7 @@ Shamanth
 * GitHub: @shamanth00000
 
 Inspired by real-world Natural Language Processing applications
+
 
 
 
